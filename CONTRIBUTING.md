@@ -33,7 +33,17 @@ Day-08-Project-Name/
 - Test your code before submitting!
 
 ---
+#### 📄 `LICENSE` 
 
+Use MIT License for open-source collaboration:
+
+```plaintext
+MIT License
+
+Copyright (c) 2025 Muawiya
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
 ## 🧡 Thank You
 
 By contributing, you're helping other beginners learn from your code.  
