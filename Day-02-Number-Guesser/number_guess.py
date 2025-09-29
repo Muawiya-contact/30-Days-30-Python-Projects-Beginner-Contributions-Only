@@ -13,6 +13,7 @@ while True:
         continue
     if 1 <= X <= 15:
         print("Too Close 🤏")
+        break
     elif 16 <= X <= 25:
         print("Try - Try 🤖")
     elif 26 <= X <= 35:
