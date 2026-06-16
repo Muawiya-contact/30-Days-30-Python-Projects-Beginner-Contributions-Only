@@ -25,7 +25,7 @@ This is a perfect place to:
 3. Add:
    - `main.py`
    - `README.md` (with short description)
-4. **Open a Pull Request** — that's it!
+4. **Open a Pull Request** and mention @Muawiya-contact for code review. — that's it!
 
 ---
 
