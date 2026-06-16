@@ -1,0 +1,21 @@
+* Day 02 - Mailer
+
+
+** What you will learn
+   - How to send email in python
+   - Python dictionaries
+   - Handling file paths with the pathlib package
+
+
+** How it works
+  - Accepts email to send from, smtp port and provider host.
+  - Constructs message with python's email.mime.text 
+  - Sends message to configured recepient(s).
+
+** Possible additions
+  - Fetching mail.
+  - API wrapper interface for ease of use in other projects.
+  - Support for file attachments.
+
+** Reading resources
+  - [Real python: Sending email with python](https://realpython.com/python-send-email/)
